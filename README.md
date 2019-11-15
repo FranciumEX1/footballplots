@@ -1,2 +1,2 @@
 # footballplots
-Football analytics from everywhere if I so choose.
+Statistic visualization on the gameplay of football
